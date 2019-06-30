@@ -4,7 +4,7 @@ CFLAGS=-I$(IDIR) -std=c++11
 SDIR=src
 ODIR=obj
 LDIR=lib
-BDIR=.
+BDIR=bin
 
 LIBS=-lm
 
